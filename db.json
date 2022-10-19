@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Espinosa enterprise"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Espinosa enterprise"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Espinosa enterprise"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Espinosa enterprise"
+    },
+    {
+      "nombre": "Fran",
+      "empresa": "Drones, SA",
+      "email": "fran@fran.com",
+      "telefono": "1234556788",
+      "notas": "Ha pedido una nueva página web con carrito de compras.",
+      "id": 6
+    }
+  ]
+}
